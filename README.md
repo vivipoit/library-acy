@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is product from the final part of the Ruby on Rails class at ACY on Apr 29th thru May 3rd.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The initial part of the class followed this presentation:
+https://docs.google.com/presentation/d/1nHyawhVUuJcepT2hx6tMSm4ZZbvYQzkAzOVR3t5-Bkw/edit#slide=id.p
