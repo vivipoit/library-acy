@@ -1,6 +1,6 @@
 FactoryBot.define do
   factory :person do
-    type { "" }
+    position { "MyString" }
     name { "MyString" }
   end
 end
