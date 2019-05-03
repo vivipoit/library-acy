@@ -1,4 +1,4 @@
-# README
+# Library
 
 This app is product from the final part of the Ruby on Rails class at ACY on Apr 29th thru May 3rd.
 
